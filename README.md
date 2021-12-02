@@ -15,6 +15,8 @@ The game consists of 4 stages, but you can proceed to the 5th stage if your scor
 
 It basically starts from the 1st stage, but if you hold down number keys (1-5) when you choose difficulty, you can start from the specific stage (for practice).
 
+(The game might run slowly on Chrome. If it happens, try Edge instead.)
+
 # References
 Playable character: https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 
