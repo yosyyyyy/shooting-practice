@@ -18,12 +18,14 @@ It basically starts from the 1st stage, but if you hold down number keys (1-5) w
 # References
 Playable character: https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 
-Enemies: https://assetstore.unity.com/packages/3d/characters/jelly-monsters-19176
+Normal monsters: https://assetstore.unity.com/packages/3d/characters/jelly-monsters-19176
 
-Bosses: https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
+Boss monsters: https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
 
 Audio and sound effects: https://maou.audio/
 
 Font: https://fontbear.net/togetoge/
 
 Background images: Some free images
+
+Some bullet patterns: Inspired by some famous bullet hell games (especially Touhou)
