@@ -1,6 +1,4 @@
 # Description
-https://yosyyyyy.github.io/shooting-practice/
-
 Title: Unitychan's Shooting Practice!
 
 Genre: Bullet Hell
