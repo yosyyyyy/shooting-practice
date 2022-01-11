@@ -1,6 +1,8 @@
 # Description
 Playable URL: https://yosyyyyy.github.io/shooting-practice/
 
+(The game might run slowly on Chrome. If that happens, try Edge instead.)
+
 ![bandicam 2022-01-11 19-12-42-655](https://user-images.githubusercontent.com/94620808/148924034-29f66fa0-a342-4da9-9046-02e64e524c1d.jpg)
 
 Title: Unitychan's Shooting Practice!
@@ -16,8 +18,6 @@ The objective is very simple. Avoid bullets and destroy monsters.
 The game consists of 4 stages, but you can proceed to the 5th stage if your score is good. Less misses result in better score.
 
 It basically starts from the 1st stage, but if you hold down number keys (1-5) when you choose difficulty, you can start from the specific stage (for practice).
-
-(The game might run slowly on Chrome. If that happens, try Edge instead.)
 
 # References
 Playable character: https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
