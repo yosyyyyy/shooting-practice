@@ -1,5 +1,7 @@
 # Description
-https://yosyyyyy.github.io/shooting-practice/
+Playable URL: https://yosyyyyy.github.io/shooting-practice/
+
+![bandicam 2022-01-11 19-12-42-655](https://user-images.githubusercontent.com/94620808/148924034-29f66fa0-a342-4da9-9046-02e64e524c1d.jpg)
 
 Title: Unitychan's Shooting Practice!
 
@@ -7,7 +9,7 @@ Genre: Bullet Hell
 
 Controls: Arrow keys to move (left-shift key to slow down).
 
-This is my first game created during the process of learning C# and Unity.
+I made this game during the process of learning C# and Unity.
 
 The objective is very simple. Avoid bullets and destroy monsters.
 
