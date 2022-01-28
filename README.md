@@ -1,10 +1,29 @@
-# Description
 Playable URL: https://yosyyyyy.github.io/shooting-practice/
 
-(The game might run slowly on Chrome. If that happens, try Edge instead.)
+Recommended: PC, Microsoft Edge
 
-![bandicam 2022-01-11 19-12-42-655](https://user-images.githubusercontent.com/94620808/148924034-29f66fa0-a342-4da9-9046-02e64e524c1d.jpg)
+https://user-images.githubusercontent.com/94620808/151542883-f95a236b-a3b8-4e30-9c05-6575c07e4ab2.mp4
 
+# Description (JP)
+タイトル: Unitychan's Shooting Practice!
+
+ジャンル: 弾幕シューティングゲーム
+
+操作: 矢印キーで移動(左シフトキーを押している間は低速化)
+
+C#とUnityのスキルアップを図りつつシューティングの腕を磨くため、このゲームを制作しました。
+
+ゲームの内容は至ってシンプルで、敵が放つ大量の弾を避けながら、敵を破壊することです。
+
+全部で4つのステージがありますが、一定以上のスコアを獲得すると5つ目の隠しステージに進めます。
+
+ミスの回数を抑えることが高スコアへの近道です。
+
+また、難易度選択時に1～5の数字キーが押されていると、その数字に対応したステージから開始することができます(練習用)。
+
+数字キーを押さずに難易度を選択すると、ステージ1から順番にプレイすることができます(ハイスコア狙い用)。
+
+# Description (EN)
 Title: Unitychan's Shooting Practice!
 
 Genre: Bullet Hell
