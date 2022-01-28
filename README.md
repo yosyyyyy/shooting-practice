@@ -11,8 +11,6 @@ https://user-images.githubusercontent.com/94620808/151544554-6d0a7a07-01bf-472d-
 
 操作: 矢印キーで移動(左シフトキーを押している間は低速化)
 
-C#とUnityのスキルアップを図りつつシューティングの腕を磨くため、このゲームを制作しました。
-
 ゲームの内容は至ってシンプルで、敵が放つ大量の弾を避けながら、敵を破壊することです。
 
 全部で4つのステージがありますが、一定以上のスコアを獲得すると5つ目の隠しステージに進めます。
@@ -29,8 +27,6 @@ Title: Unitychan's Shooting Practice!
 Genre: Bullet Hell
 
 Controls: Arrow keys to move (left-shift key to slow down).
-
-I made this game during the process of learning C# and Unity.
 
 The objective is very simple. Avoid bullets and destroy monsters.
 
