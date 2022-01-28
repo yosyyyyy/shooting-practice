@@ -2,7 +2,7 @@ Playable URL: https://yosyyyyy.github.io/shooting-practice/
 
 Recommended: PC, Microsoft Edge
 
-https://user-images.githubusercontent.com/94620808/151542883-f95a236b-a3b8-4e30-9c05-6575c07e4ab2.mp4
+https://user-images.githubusercontent.com/94620808/151544554-6d0a7a07-01bf-472d-bf9c-ec6409094ab2.mp4
 
 # Description (JP)
 タイトル: Unitychan's Shooting Practice!
